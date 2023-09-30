@@ -243,6 +243,8 @@ PRODUCT_PACKAGES += \
 	AquariumSignalOverlay \
 	BarsSignalOverlay \
 	BarsWiFiOverlay \
+	ColorOsSignalOverlay \
+	ColorOsWiFiOverlay \
 	DeepSignalOverlay \
 	DoraSignalOverlay \
 	DoraWiFiOverlay \
@@ -259,6 +261,8 @@ PRODUCT_PACKAGES += \
 	PillsSignalOverlay \
 	PavlovaWiFiOverlay \
 	PUISignalOverlay \
+	RealmeUISignalOverlay \
+	RealmeUIWiFiOverlay \
 	RoundSignalOverlay \
 	RoundWiFiOverlay \
 	SneakySignalOverlay \
